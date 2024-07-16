@@ -1,18 +1,4 @@
-
-  # VS Code Readme Editor 📝  
-  Import your existing Readme using the import button at the bottom, 
-  or create a new Readme from scratch by typing in the editor.  
-  
-  ## Get Started 🚀  
-  To get started, hit the 'clear' button at the top of the editor!  
-  
-  ## Prebuilt Components/Templates 🔥  
-  You can checkout prebuilt components and templates by clicking on the 'Add Section' button or menu icon
-  on the top left corner of the navbar.
-      
-  ## Save Readme ✨  
-  Once you're done, click on the save button to download and save your ReadMe!
-  # Hi, I'm Alain! 👋  
+# Hi, I'm Alain! 👋  
                 
 ## 🚀 About Me  
 I hold a PhD in Mobile Network Information and Communication Technologies (Cum Laude), with a specialization in Reinforcement Learning (RL). My research specifically tackled sparse reward problems, emphasizing the importance of exploration in environments where feedback signals are limited. 
