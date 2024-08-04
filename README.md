@@ -11,12 +11,6 @@ I hold a PhD in Mobile Network Information and Communication Technologies (Cum L
 
 💬 Ask me about web development, data science, and any interesting tech trends.
 
-## 🛠 Skills  
-- **Programming Languages:** Python, C, Java, JavaScript 
-- **Data Science (Machie Learning):** PyTorch, TensorFlow, Scikit-learn, Gymnasium, Farama Foundation  
-- **Web Development:** HTML, CSS, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
 ## 🔗 Links  
 [![website](https://img.shields.io/badge/website-1C2F59?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aklein1995.github.io/)
 
