@@ -5,11 +5,9 @@ Born in 1995, I am an active, sport-loving, self-taught millennial passionate ab
 
 I hold a PhD in Mobile Network Information and Communication Technologies (Cum Laude), with a specialization in Reinforcement Learning (RL). My research specifically tackled sparse reward problems, emphasizing the importance of exploration in environments where feedback signals are limited. 
 
-👩‍💻 I'm currently working on Tecnalia, where I am involved in innovative projects that push the boundaries of technology.
+👩‍💻 R&D Data Scientist at Tecnalia, where I drive cutting-edge projects that push the limits of today’s technology.
+🧠 Lecturer at the University of Deusto, where I share my expertise and inspire the next generation of engineers.
 
-🧠 I'm currently learning advanced machine learning techniques and how to apply them to real-world problems.
-
-💬 Ask me about web development, data science, and any interesting tech trends.
 
 ## 🔗 Links  
 [![website](https://img.shields.io/badge/website-1C2F59?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aklein1995.github.io/)
