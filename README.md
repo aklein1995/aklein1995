@@ -12,6 +12,5 @@ I hold a PhD in Mobile Network Information and Communication Technologies (Cum L
 
 ## 🔗 Links  
 [![website](https://img.shields.io/badge/website-1C2F59?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aklein1995.github.io/)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alainandresfernandez/)
 
